@@ -1,7 +1,26 @@
-h1{
-    color: blue;
+
+.fotter{
+    background-color:#3F413E;
+    color: white;
+}
+.content{
+   display: flex;
+   
 
 }
-p{
-    font-size: 20px;
+.section{
+    margin-right: 10px;
+}
+
+.article{
+    background: skyblue;
+    
+}
+.aside{
+    padding: 5px;
+}
+.sub-aside{
+    
+    background: orange;
+    
 }
