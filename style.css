@@ -61,16 +61,11 @@
     align-items: center;
 }
 .fotter .fotter-parrafo p{
-   
-    margin: 0;
-    
+    margin: 0; 
 }
 .content{
    display: flex;
    margin: 10px;
-
-   
-
 }
 .section{
     margin-right: 10px;
@@ -79,9 +74,7 @@
 .article{
     background: skyblue;
     margin-bottom: 10px;
-    
-    
-    
+    padding: 10px; 
 }
 .aside{
     padding: 5px;
@@ -89,5 +82,14 @@
 .sub-aside{
     
     background: orange;
+    padding: 10px;
     
+}
+.article2{
+    background-color: silver;
+    padding: 10px;
+
+}
+.section2{
+    margin: 10px;
 }
