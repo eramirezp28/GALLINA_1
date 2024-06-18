@@ -73,15 +73,10 @@
 
 .article{
     background: skyblue;
-<<<<<<< HEAD
     margin-bottom: 10px;
-    padding: 10px; 
-=======
-    
-    
-    
->>>>>>> parent of 6fbbfbe (se corrigio el espacio inferior los articulos)
+    padding: 10px;
 }
+
 .aside{
     padding: 5px;
 }
@@ -99,3 +94,14 @@
 .section2{
     margin: 10px;
 }
+<<<<<<< HEAD
+.img_playa img{
+    margin: 10px;
+    
+}
+.img_playa{
+    text-align: center;
+    
+}
+=======
+>>>>>>> 864e854b2c6af96e69adaceaef1448ec6b36ad02
