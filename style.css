@@ -73,8 +73,14 @@
 
 .article{
     background: skyblue;
+<<<<<<< HEAD
     margin-bottom: 10px;
     padding: 10px; 
+=======
+    
+    
+    
+>>>>>>> parent of 6fbbfbe (se corrigio el espacio inferior los articulos)
 }
 .aside{
     padding: 5px;
